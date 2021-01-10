@@ -112,3 +112,11 @@ catch (int myNum) {
 
 
 C++ does not accept the use of single quotes for string literals.
+
+
+Rightclick the project and "clean" then "build" if unexplainable errors are showing up.
+
+
+For all that is sacred, USE THE 64BIT VER OF SDL2 WITH CODE::BLOCKS.
+The LazyFood tutorial will insist that the 32bit ver is for increased compatibility,
+but it just makes C::B unable to find -lSDL2 and -lSDL2main.

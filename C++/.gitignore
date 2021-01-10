@@ -1,3 +1,6 @@
+# Code::Blocks layout
+**/*.layout
+
 # Prerequisites
 **/*.d
 **/*.depend
