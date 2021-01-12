@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 11th, 2021
+**Today's Progress:** Completely stuck on how to make my exe run independently from Code::Blocks. Static linking causes 50+ build errors of "undefined reference to ___________". Searching for others with similar past issues has not helped, and I am mentally tired of not being able to just write some code already. Scrapped the idea of C++ and instead worked on separating my old [Maze Constructor](https://github.com/erifo/maze-constructor) into logic and graphics. Also begun writing a pygame clone of [Fire Emblem](https://github.com/erifo/emblem-clone)!
+
+**Thoughts:** Switching to Python felt like a breath of fresh air after the last two days. Tinkering with game logic is a billion times more exciting than solving linking errors. At least it raised my resilience against irritation.
+
 ### Day 2: January 10th, 2021
 **Today's Progress:** Successfully installed 64-bit version of SDL2 for use with Code::Blocks.
 
