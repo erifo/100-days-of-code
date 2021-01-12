@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 12th, 2021
+**Today's Progress:** Continued with the [Emblem Clone](https://github.com/erifo/emblem-clone). Implemented grid movement for the player and collision detection for walls and impassable terrain. Also some crude sprite import and rendering for the player.
+
+**Thoughts:** Prototyping is so much quicker with Python. I feel like my ideas get from thought to working code quick enough that I may as well not be typing at all. Was really tired when I wrote the sprite usage, so gotta clean that up before I continue.
+
 ### Day 3: January 11th, 2021
 **Today's Progress:** Completely stuck on how to make my exe run independently from Code::Blocks. Static linking causes 50+ build errors of "undefined reference to ___________". Searching for others with similar past issues has not helped, and I am mentally tired of not being able to just write some code already. Scrapped the idea of C++ and instead worked on separating my old [Maze Constructor](https://github.com/erifo/maze-constructor) into logic and graphics. Also begun writing a pygame clone of [Fire Emblem](https://github.com/erifo/emblem-clone)!
 
