@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 13th, 2021
+**Today's Progress:** Reorganized the class hierarchy to allow for textures instead of solid colors for everything. Also added randomized unit generation!
+
+**Thoughts:** The skeleton is coming together. Next big step will be menus and other GUI components. After that I'll finally be able to work on combat!
+
 ### Day 4: January 12th, 2021
 **Today's Progress:** Continued with the [Emblem Clone](https://github.com/erifo/emblem-clone). Implemented grid movement for the player and collision detection for walls and impassable terrain. Also some crude sprite import and rendering for the player.
 
