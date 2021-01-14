@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 14th, 2021
+**Today's Progress:** Wrote draft classes for [Emblem Clone](https://github.com/erifo/emblem-clone) GUI.
+
+**Thoughts:** No idea what I'm doing, but that's part of the fun. Trying to improvise the system on the spot, but i didn't get as far as that method usually brings me. I might look for a tutorial or example for how to structure game menus tomorrow.
+
 ### Day 5: January 13th, 2021
 **Today's Progress:** Reorganized the class hierarchy to allow for textures instead of solid colors for everything. Also added randomized unit generation!
 
