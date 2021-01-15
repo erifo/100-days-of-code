@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 15th, 2021
+**Today's Progress:** Updated my [Sudoku Solver](https://github.com/erifo/sudoku-solver) with a recursive solving method if the more sophisticated ones fail. Attemped a solution for recognizing sudoku from photos, but it required downgrading to python 3.8 among other things I didn't feel worth attempting.
+
+**Thoughts:** It's not intended as a crutch, but rather a complementary last step for whatever few cells remain unsolvable by my other algorithms. Since it was a while since I worked in this project, I also got a better look at how messy the program is. Might take one of these days to refactor it.
+
 ### Day 6: January 14th, 2021
 **Today's Progress:** Wrote draft classes for [Emblem Clone](https://github.com/erifo/emblem-clone) GUI.
 
