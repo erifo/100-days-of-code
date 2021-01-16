@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 16th, 2021
+**Today's Progress:** Created toggle-able debug mode for the [Sudoku Solver](https://github.com/erifo/sudoku-solver) and wrote function to get the solution as a string to be used elsewhere. 
+
+**Thoughts:** Losing a bit of steam lately. Could be fatigue from other events, simply apprehension to tackle untried problems. I don't want this to become a chore, because then I might begin cutting corners. Picked up a PDF about design patterns that I want to try making examples from.
+
 ### Day 7: January 15th, 2021
 **Today's Progress:** Updated my [Sudoku Solver](https://github.com/erifo/sudoku-solver) with a recursive solving method if the more sophisticated ones fail. Attemped a solution for recognizing sudoku from photos, but it required downgrading to python 3.8 among other things I didn't feel worth attempting.
 
