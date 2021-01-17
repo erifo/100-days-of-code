@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 17th, 2021
+**Today's Progress:** Made a fresh start with a GUI test project in parallel with the [Emblem Clone](https://github.com/erifo/emblem-clone).
+
+**Thoughts:** Had to stop midway since it was getting late. I'm hoping this new architecture will be more intuitive and decoupled than the previous.
+
 ### Day 8: January 16th, 2021
 **Today's Progress:** Created toggle-able debug mode for the [Sudoku Solver](https://github.com/erifo/sudoku-solver) and wrote function to get the solution as a string to be used elsewhere. 
 
