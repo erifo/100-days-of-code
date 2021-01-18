@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 18th, 2021
+**Today's Progress:** Wrote a toggle-able menu, following the Model-View-Controller design, that only takes input when open and automatically adjusts its size to the content.
+
+**Thoughts:** It's not yet ready to be merged with the [Emblem Clone](https://github.com/erifo/emblem-clone), but it's a huge step on the way! Next step should be nesting menus and actually include the end-points that they lead to. Game options, character screen, inventory, save/load menu, etc.
+
 ### Day 9: January 17th, 2021
 **Today's Progress:** Made a fresh start with a GUI test project in parallel with the [Emblem Clone](https://github.com/erifo/emblem-clone).
 
