@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 19th, 2021
+**Today's Progress:** Made menu options selectable using arrow keys.
+
+**Thoughts:** Not very enthusiastic today, but I at least got something done. Procrastinating submenus.
+
 ### Day 10: January 18th, 2021
 **Today's Progress:** Wrote a toggle-able menu, following the Model-View-Controller design, that only takes input when open and automatically adjusts its size to the content.
 
