@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 20th, 2021
+**Today's Progress:** Made plans and considered options for overall architecture of [Emblem Clone](https://github.com/erifo/emblem-clone).
+
+**Thoughts:** I keep finding that the type of problem I enjoy solving the most is the one which removes any future problem. Were I to implement all the features I wanted right away, I'd most certainly would end up with a tangled mess of dependenciesm, not to mention headache if I decided to change an aspect of it. Instead I'd much rather figure out a clean and logical system now and happily have everything "just work" later. Due to this, there are days where very little code gets written.
+
 ### Day 11: January 19th, 2021
 **Today's Progress:** Made menu options selectable using arrow keys.
 
