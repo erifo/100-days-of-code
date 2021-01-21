@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 21th, 2021
+**Today's Progress:** Began working on [Kobold Mastermind](https://github.com/erifo/kobold-mastermind). Created a main menu that did different things based on what was selected. Reused old code with a new structure.
+
+**Thoughts:** The Emblem Clone idea was growing stale, and kept demotivating me to continue. Instead I'm beginning anew with a different approach. I improve at a steadier pace if I throw things together until it works, and then remake it from scratch. That's why the goal this time will be "ugly, but feature complete".
+
 ### Day 12: January 20th, 2021
 **Today's Progress:** Made plans and considered options for overall architecture of [Emblem Clone](https://github.com/erifo/emblem-clone).
 
