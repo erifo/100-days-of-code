@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 22th, 2021
+**Today's Progress:** Came to the realization that I feature-creep my own projects as I'm writing them.
+
+**Thoughts:** I need to start over again. I need to scale back even further and define a bare-bones concept of what the end result will be. Minimal graphics. Pure functionality. Bells and whistles must be forcefully postponed for later. Don't think about what will be needed in the end. Don't think about future-proofing. Just get things done.
+
 ### Day 13: January 21th, 2021
 **Today's Progress:** Began working on [Kobold Mastermind](https://github.com/erifo/kobold-mastermind). Created a main menu that did different things based on what was selected. Reused old code with a new structure.
 
