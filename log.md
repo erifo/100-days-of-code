@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 23th, 2021
+**Today's Progress:** Made flowchart over the [Kobold Mastermind](https://github.com/erifo/kobold-mastermind) user experience. Learned more about flowchart creation and usage while doing so.
+
+**Thoughts:** Very busy day, so I decided to try something new that could help me in the long run. I've found that a good flowchart is both aesthetically pleasing and gives an intuitive understanding of how a system is connected. Looking at it makes it easier to see before me what parts of the code is needed where. I'll likely continue experimenting with it in the days to come.
+
 ### Day 14: January 22th, 2021
 **Today's Progress:** Came to the realization that I feature-creep my own projects as I'm writing them.
 
