@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 24th, 2021
+**Today's Progress:** Wrote code for drawing the room and record of guesses in [Kobold Mastermind](https://github.com/erifo/kobold-mastermind).
+
+**Thoughts:** I'm frustrated. This time I haven't planned ahead *enough*. It seems like I'm doomed to never find a middleground. Was working on the drawing functions when I began seeing a pattern of repeating code taking shape, so I stopped. Bruteforcing this would be stupid, even if it meant I had a working game. So far I've tried dividing the game into three clear parts: Model, View, and Controller. This worked until a certain point where it just looked like three monoliths instead of one. I might have to try writing MVC classes for *all* of my components to get the result I need.
+
 ### Day 15: January 23th, 2021
 **Today's Progress:** Made flowchart over the [Kobold Mastermind](https://github.com/erifo/kobold-mastermind) user experience. Learned more about flowchart creation and usage while doing so.
 
