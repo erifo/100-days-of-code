@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 25th, 2021
+**Today's Progress:** Wrote third iteration of [Kobold Mastermind](https://github.com/erifo/kobold-mastermind).
+
+**Thoughts:** I can tell that I'm improving! Writing this from scratch a third time gave me frequent flashbacks to the first two, and made me realize every step of the way what to avoid and what to go for. So far I'm still only at a working menu, but the structure of it is solid. Slow and steady, I think I can keep this architecture going for the remaining features of the game.
+
 ### Day 16: January 24th, 2021
 **Today's Progress:** Wrote code for drawing the room and record of guesses in [Kobold Mastermind](https://github.com/erifo/kobold-mastermind).
 
