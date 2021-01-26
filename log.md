@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 26th, 2021
+**Today's Progress:** Wrote models and views for most of the play-state.
+
+**Thoughts:** Had a great flow today! Everything I had to do felt intuitive and didn't require much afterthought or planning. So far I have a single controller that mediates between a game-model and a game-view. These two in turn have a hierarchy of lesser models and views within them. At the end of the day, the only debugging I had to do was related to typos and a few imports that were missing. Tomorrow I'll probably finish the views so I can begin writing logic!
+
 ### Day 17: January 25th, 2021
 **Today's Progress:** Wrote third iteration of [Kobold Mastermind](https://github.com/erifo/kobold-mastermind).
 
