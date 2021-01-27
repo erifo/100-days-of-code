@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 27th, 2021
+**Today's Progress:** Wrote views for circles, kobolds, and cursor.
+
+**Thoughts:** Discovered flaws in the architecture, but decided against fixing them. It wont affect the Model side of things, so I'll leave it for when the game is feature complete. The issue is about if decisions should be made inside a View's constructo/draw-function, or if it should be passed as arguments to them. And if so, what data goes to the constructor or draw? Should position be passed as argument? Should size? Should all components of the game be instantiated at startup and then injected into each other? Like a matryoshka doll assembled from the smallest first. I hate not having an intuitive way to express these problems except in actual code. Maybe I need to reaquaint myself with the basic terminology.
+
 ### Day 18: January 26th, 2021
 **Today's Progress:** Wrote models and views for most of the play-state.
 
