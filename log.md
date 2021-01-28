@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 28th, 2021
+**Today's Progress:** Wrote movement and collision detection for cursor, as well as letting it carry kobolds correctly.
+
+**Thoughts:** It holds! The implementation today was painless and intuitive, just as I had hoped. When a keyboard input is given, the command currently goes through a chain of methods calling each other in the following sequence of classes: GameController -> PlayModel -> FloorModel -> CursorModel. There is a GameModel in between GameController and PlayModel, but I'm calling the PlayModel functions directly from GameController instead. Skipping one "layer" seems like bad practice, but I see no point in writing extra "middle-hand" functions in GameMode, which is currently just a dumb container class. No doubt I'll realize what I fool I was eventually. Either way, I count today as a great success!
+
 ### Day 19: January 27th, 2021
 **Today's Progress:** Wrote views for circles, kobolds, and cursor.
 
