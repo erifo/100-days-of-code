@@ -1,17 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 29th, 2021
+**Today's Progress:** Wrote logic for gathering guesses, determining victory, and View for list of guesses in [Kobold Mastermind](https://github.com/erifo/kobold-mastermind).
+
+**Thoughts:** Appraoching feature completeness! Changed the layout for compactness. Don't want to put a lot of energy into the visuals, but I guess it's good exercise. Looking forward to starting a fresh project when this one is over. Maybe something like C# database interaction.
+
 ### Day 20: January 28th, 2021
-**Today's Progress:** Wrote movement and collision detection for cursor, as well as letting it carry kobolds correctly.
+**Today's Progress:** Wrote movement and collision detection for cursor, as well as letting it carry kobolds correctly in [Kobold Mastermind](https://github.com/erifo/kobold-mastermind).
 
 **Thoughts:** It holds! The implementation today was painless and intuitive, just as I had hoped. When a keyboard input is given, the command currently goes through a chain of methods calling each other in the following sequence of classes: GameController -> PlayModel -> FloorModel -> CursorModel. There is a GameModel in between GameController and PlayModel, but I'm calling the PlayModel functions directly from GameController instead. Skipping one "layer" seems like bad practice, but I see no point in writing extra "middle-hand" functions in GameMode, which is currently just a dumb container class. No doubt I'll realize what I fool I was eventually. Either way, I count today as a great success!
 
 ### Day 19: January 27th, 2021
-**Today's Progress:** Wrote views for circles, kobolds, and cursor.
+**Today's Progress:** Wrote views for circles, kobolds, and cursor for [Kobold Mastermind](https://github.com/erifo/kobold-mastermind).
 
 **Thoughts:** Discovered flaws in the architecture, but decided against fixing them. It wont affect the Model side of things, so I'll leave it for when the game is feature complete. The issue is about if decisions should be made inside a View's constructo/draw-function, or if it should be passed as arguments to them. And if so, what data goes to the constructor or draw? Should position be passed as argument? Should size? Should all components of the game be instantiated at startup and then injected into each other? Like a matryoshka doll assembled from the smallest first. I hate not having an intuitive way to express these problems except in actual code. Maybe I need to reaquaint myself with the basic terminology.
 
 ### Day 18: January 26th, 2021
-**Today's Progress:** Wrote models and views for most of the play-state.
+**Today's Progress:** Wrote models and views for most of the play-state for [Kobold Mastermind](https://github.com/erifo/kobold-mastermind).
 
 **Thoughts:** Had a great flow today! Everything I had to do felt intuitive and didn't require much afterthought or planning. So far I have a single controller that mediates between a game-model and a game-view. These two in turn have a hierarchy of lesser models and views within them. At the end of the day, the only debugging I had to do was related to typos and a few imports that were missing. Tomorrow I'll probably finish the views so I can begin writing logic!
 
