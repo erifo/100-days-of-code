@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 30th, 2021
+**Today's Progress:** Completed the first, second, and third day of [Advent of Code 2020](https://github.com/erifo/advent-of-code-2020).
+
+**Thoughts:** Taking a break from gamedev to attempt an annual classic. I've sporadically taken part of Advent of Code previous years, and even though I'm late this time, I thoroughly enjoyed these first three challenges. I might be imagining things, but solving them felt more intuitive so far than previous years. Looking forward to getting stuck on the rest.
+
 ### Day 21: January 29th, 2021
 **Today's Progress:** Wrote logic for gathering guesses, determining victory, and View for list of guesses in [Kobold Mastermind](https://github.com/erifo/kobold-mastermind).
 
