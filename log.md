@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 31th, 2021
+**Today's Progress:** Completed the fourth and fifth day of [Advent of Code 2020](https://github.com/erifo/advent-of-code-2020).
+
+**Thoughts:** Most of the challenges so far have included use of regex to parse data, which made it tricky to find out what exactly went wrong during the solution of the fourth day's challenge. I'm noticing an improvement of both my debugging and regex ability, which is a pleasant surprise.
+
 ### Day 22: January 30th, 2021
 **Today's Progress:** Completed the first, second, and third day of [Advent of Code 2020](https://github.com/erifo/advent-of-code-2020).
 
