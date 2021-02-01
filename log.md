@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 23: January 31th, 2021
+### Day 24: February 1st, 2021
+**Today's Progress:** Completed the sixth and seventh day of [Advent of Code 2020](https://github.com/erifo/advent-of-code-2020), involving forethought, regex, and recursion.
+
+**Thoughts:** Big props to [Eric Wastl](http://was.tl/) for year after year making puzzles just hard enough to be challenging without being demotivating! I'm not very comfortable with recursion yet, so the day 7 puzzle was very rewarding once I solved it.
+
+### Day 23: January 31st, 2021
 **Today's Progress:** Completed the fourth and fifth day of [Advent of Code 2020](https://github.com/erifo/advent-of-code-2020).
 
 **Thoughts:** Most of the challenges so far have included use of regex to parse data, which made it tricky to find out what exactly went wrong during the solution of the fourth day's challenge. I'm noticing an improvement of both my debugging and regex ability, which is a pleasant surprise.
@@ -40,17 +45,17 @@
 
 **Thoughts:** I'm frustrated. This time I haven't planned ahead *enough*. It seems like I'm doomed to never find a middleground. Was working on the drawing functions when I began seeing a pattern of repeating code taking shape, so I stopped. Bruteforcing this would be stupid, even if it meant I had a working game. So far I've tried dividing the game into three clear parts: Model, View, and Controller. This worked until a certain point where it just looked like three monoliths instead of one. I might have to try writing MVC classes for *all* of my components to get the result I need.
 
-### Day 15: January 23th, 2021
+### Day 15: January 23rd, 2021
 **Today's Progress:** Made flowchart over the [Kobold Mastermind](https://github.com/erifo/kobold-mastermind) user experience. Learned more about flowchart creation and usage while doing so.
 
 **Thoughts:** Very busy day, so I decided to try something new that could help me in the long run. I've found that a good flowchart is both aesthetically pleasing and gives an intuitive understanding of how a system is connected. Looking at it makes it easier to see before me what parts of the code is needed where. I'll likely continue experimenting with it in the days to come.
 
-### Day 14: January 22th, 2021
+### Day 14: January 22nd, 2021
 **Today's Progress:** Came to the realization that I feature-creep my own projects as I'm writing them.
 
 **Thoughts:** I need to start over again. I need to scale back even further and define a bare-bones concept of what the end result will be. Minimal graphics. Pure functionality. Bells and whistles must be forcefully postponed for later. Don't think about what will be needed in the end. Don't think about future-proofing. Just get things done.
 
-### Day 13: January 21th, 2021
+### Day 13: January 21st, 2021
 **Today's Progress:** Began working on [Kobold Mastermind](https://github.com/erifo/kobold-mastermind). Created a main menu that did different things based on what was selected. Reused old code with a new structure.
 
 **Thoughts:** The Emblem Clone idea was growing stale, and kept demotivating me to continue. Instead I'm beginning anew with a different approach. I improve at a steadier pace if I throw things together until it works, and then remake it from scratch. That's why the goal this time will be "ugly, but feature complete".
