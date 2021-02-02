@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 25: February 2nd, 2021
+**Today's Progress:** Read through the first puzzle for Day 8 and setup files for a later solution.
+
+**Thoughts:** Was quite busy today, but programming is not just writing code! By reading the puzzle early I was able to spend whatever downtime I had today on thinking about solutions. All I need to do tomorrow is write it down and realize that I've misunderstood something. Wait...
+
 ### Day 24: February 1st, 2021
 **Today's Progress:** Completed the sixth and seventh day of [Advent of Code 2020](https://github.com/erifo/advent-of-code-2020), involving forethought, regex, and recursion.
 
