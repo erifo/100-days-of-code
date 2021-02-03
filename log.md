@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 3nd, 2021
+**Today's Progress:** Solved the first part of the day 8 puzzle of [Advent of Code 2020](https://github.com/erifo/advent-of-code-2020).
+
+**Thoughts:** Simulating a series of boot instructions was straightforward enough, but I'll need to ponder on the second part of the puzzle. Dynamically changing out instructions to see what works feels like a bruteforce solution, so I'm not keen on doing it right away. I'll try thinking of a more elegant way until tomrrow.
+
 ### Day 25: February 2nd, 2021
 **Today's Progress:** Read through the first puzzle for Day 8 and setup files for a later solution.
 
