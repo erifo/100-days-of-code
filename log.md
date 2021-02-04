@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 4nd, 2021
+**Today's Progress:** Made multiple new attempts at solving second part of day 8.
+
+**Thoughts:** I'll likely need to rethink my solution here, as I currently don't get enough feedback when things don't work as expected. My solution *should* do what is required, but it obviously doesn't. I'll sleep on it and try again tomorrow. Still fun though!
+
 ### Day 26: February 3nd, 2021
 **Today's Progress:** Solved the first part of the day 8 puzzle of [Advent of Code 2020](https://github.com/erifo/advent-of-code-2020).
 
