@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### INTERLUDE: February 5nd, 2021
+I'll be taking a break from the #100DaysOfCode challenge until further notice due to more important things demanding my attention.
+
 ### Day 27: February 4nd, 2021
 **Today's Progress:** Made multiple new attempts at solving second part of day 8.
 
