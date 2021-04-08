@@ -3,22 +3,22 @@
 ### INTERLUDE: February 5nd, 2021
 I'll be taking a break from the #100DaysOfCode challenge until further notice due to more important things demanding my attention.
 
-### Day 27: February 4nd, 2021
+### Day 27: February 4, 2021
 **Today's Progress:** Made multiple new attempts at solving second part of day 8.
 
 **Thoughts:** I'll likely need to rethink my solution here, as I currently don't get enough feedback when things don't work as expected. My solution *should* do what is required, but it obviously doesn't. I'll sleep on it and try again tomorrow. Still fun though!
 
-### Day 26: February 3nd, 2021
+### Day 26: February 3, 2021
 **Today's Progress:** Solved the first part of the day 8 puzzle of [Advent of Code 2020](https://github.com/erifo/advent-of-code-2020).
 
 **Thoughts:** Simulating a series of boot instructions was straightforward enough, but I'll need to ponder on the second part of the puzzle. Dynamically changing out instructions to see what works feels like a bruteforce solution, so I'm not keen on doing it right away. I'll try thinking of a more elegant way until tomrrow.
 
-### Day 25: February 2nd, 2021
+### Day 25: February 2, 2021
 **Today's Progress:** Read through the first puzzle for Day 8 and setup files for a later solution.
 
 **Thoughts:** Was quite busy today, but programming is not just writing code! By reading the puzzle early I was able to spend whatever downtime I had today on thinking about solutions. All I need to do tomorrow is write it down and realize that I've misunderstood something. Wait...
 
-### Day 24: February 1st, 2021
+### Day 24: February 1, 2021
 **Today's Progress:** Completed the sixth and seventh day of [Advent of Code 2020](https://github.com/erifo/advent-of-code-2020), involving forethought, regex, and recursion.
 
 **Thoughts:** Big props to [Eric Wastl](http://was.tl/) for year after year making puzzles just hard enough to be challenging without being demotivating! I'm not very comfortable with recursion yet, so the day 7 puzzle was very rewarding once I solved it.
